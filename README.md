@@ -1,4 +1,6 @@
 Memory Game - third project of Google Front-End Web Developer Nanodegree Scholarship at Udacity.
+Live version of the game:
+https://dominikamalewska.github.io/Memory-Game/
 
 This is a simple memory game with dinosaurs theme, nice for kids.
 
