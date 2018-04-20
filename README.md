@@ -14,7 +14,7 @@ Flip over two hidden cards at a time to locate the ones that match!
 - if the cards do not match, both cards are flipped face down.
 - the game ends once all cards have been correctly matched.
 
-Stars rating
-- less than 16 moves - 3 stars
-- less than 24 moves - 2 stars
-- less than 30 moves - 1 star
+If you do:
+- less than 16 moves - you are marked with 3 stars
+- less than 24 moves - you are marked with 2 stars
+- less than 30 moves - you are marked with 1 star
